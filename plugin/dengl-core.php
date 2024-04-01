@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Ale Core
+Plugin Name: Dengl Core
 Plugin URI: http://aletheme.com
 Description: Наш первый плагин по бронированнию.
 Version: 1.0
-Author: CRIK0VA
+Author: Dengl
 Author URI: http://aletheme.com
 License: GPLv2 or later
-Text Domain: ale-core
+Text Domain: adengl-core
 */
